@@ -1003,7 +1003,8 @@
 	}
 
 	.ch3dvsq {
-		margin-left: 24px
+		margin-left: 24px;
+		margin-right: 24px;
 	}
 }
 
@@ -1076,6 +1077,10 @@ img[src="/img/servicios/renuevate_1.png"] {
 	width: 30%;
 }
 
+#Malcriado p {
+	font-size: 1.5em !important;
+}
+
 /* Large Phones (≤ 768px) */
 @media (max-width: 768px) {
 	:root {
@@ -1135,6 +1140,37 @@ img[src="/img/servicios/renuevate_1.png"] {
 
 	img[src="/img/servicios/renuevate_1.png"] {
 		width: 70%;
+	}
+
+	img[src="/img/nosotros/foto perro.png"] {
+		bottom: -245px !important;
+		width: 90vw;
+	}
+
+	.mobile-no-padding {
+		padding: 0 !important;
+	}
+
+	.mobile-smaller-emoji {
+		height: 40px !important;
+		width: 40px !important;
+	}
+
+	#NosotrosPictureContainer {
+		top: 105%;
+		margin-bottom: 200px !important;
+	}
+
+	#NosotrosPictureContainer p {
+		font-size: 1em !important;
+	}
+
+	#Malcriado p {
+		margin-top: 28px !important;
+	}
+
+	#FAQ {
+		padding: 0 35px;
 	}
 }
 
