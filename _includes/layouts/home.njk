@@ -1,16 +1,32 @@
 ---
 layout: layouts/base.njk
 ---
-<!-- Delete this block, which will also remove the component CSS from the bundle -->
-{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
-<div class="message-box">
-	<ol>
-		<li>Edit <code>_data/metadata.js</code> with your blog’s information.</li>
-		<li>(Optional) Edit <code>eleventy.config.js</code> with your <a href="https://www.11ty.dev/docs/config/">configuration preferences</a>.</li>
-		<li>Delete this message from <code>_includes/layouts/home.njk</code>.</li>
-	</ol>
-	<p><em>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
+
+{%- css %} .emoji { height: 30px; } {% endcss %}
+{% include "nav.njk" %}
+<div
+	id="CallToAction"
+	style="
+		border-bottom: 1px solid #cfcfcf;
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		padding: 10px 0 10px 0;
+	"
+>
+	<img
+		class="emoji"
+		src="https://em-content.zobj.net/source/apple/391/smiling-face-with-sunglasses_1f60e.png"
+	/>
+	<span style="margin: 0 10px 0 10px"
+		>¡Únete al parche de las segundas oportunidades!</span
+	>
+	<img
+		class="emoji"
+		src="https://em-content.zobj.net/source/apple/391/sign-of-the-horns_1f918.png"
+	/>
 </div>
-<!-- Stop deleting -->
 
 {{ content | safe }}
+
+{% include "footer.njk" %}
