@@ -1006,6 +1006,19 @@
 		margin-left: 24px;
 		margin-right: 24px;
 	}
+
+	#ServicesMessage {
+		position: absolute;
+		flex-direction: column;
+		text-align: center;
+		justify-content: center;
+		align-items: center;
+		display: flex;
+		padding-right: 30px;
+		padding-left: 30px;
+		top: 30%;
+		margin-top: -25px;
+	}
 }
 
 .mobile {
@@ -1171,6 +1184,10 @@ img[src="/img/servicios/renuevate_1.png"] {
 
 	#FAQ {
 		padding: 0 35px;
+	}
+
+	#ServicesMessage {
+		margin-top: unset !important;
 	}
 }
 

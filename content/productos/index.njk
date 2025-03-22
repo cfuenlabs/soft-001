@@ -11,7 +11,7 @@
 
 {%- for categoria in categorias %}
 	<h1 style="text-align: center;">{{categoria}}</h1>
-	<div style="display: flex; flex-direction: row; justify-content: center; gap: 30px; flex-wrap: wrap; padding-left: 50px; padding-right: 50px;">
+	<div style="display: flex; flex-direction: row; justify-content: center; gap: 60px; flex-wrap: wrap; padding-left: 50px; padding-right: 50px;">
 	{%- for producto in productosCategorias %}
 		{% if producto.categoria == categoria %}
 		<a
@@ -50,4 +50,19 @@
 		{% endif %}
 	{% endfor -%}
 	</div>
+	<hr style="opacity: 0.25; margin-top: 60px;">
 {% endfor -%}
+
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 30px; margin-top: 30px;">
+	<img src="/img/servicios/sticker escríbenos.png" style="width: 10vw">
+	<a
+		class="WhatsAppButton desktop"
+		href="https://api.whatsapp.com/send/?phone=573503324894&text&type=phone_number&app_absent=0">
+		<img src="/img/icono_apple.png">
+		<span>
+			Chatea con nosotros
+		</span>
+	</a>
+	<img src="/img/servicios/renuevate_1.png">
+</div>
