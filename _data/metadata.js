@@ -1,11 +1,11 @@
 export default {
-	title: "Eleventy Base Blog v9",
-	url: "https://example.com/",
-	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	title: "iPhoneShop",
+	url: "https://iphoneshop-co.netlify.app/",
+	language: "es",
+	description: "Cambia tu iPhone, dale una segunda oportunidad y estrena sin gastar de más. En iPhoneShop Bogotá hacemos que renovar tu equipo sea fácil y accesible. ¡Únete al parche!",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "CFuen (A. Castillo)",
+		email: "cfuendev@gmail.com",
+		url: "https://github.com/cfuendev"
 	}
 }
