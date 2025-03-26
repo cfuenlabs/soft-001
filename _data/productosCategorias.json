@@ -72,28 +72,125 @@
 		"imagen": "earpods lighting 1.png"
 	},
 	{
-		"nombre": "Series 9",
+		"nombre": "Series 9 45mm",
 		"precio": "1699000",
 		"categoria": "AppleWatch",
-		"imagen": "watch series 9 45mm.png"
+		"colores": [
+			"black",
+			"desert titanium",
+			"white",
+			"pink",
+			"red",
+			"silver",
+			"pacific blue"
+		],
+		"imagenes": [
+			{
+				"path": "Apple Watch Series 9 COL1.png",
+				"color": "black"
+			},
+			{
+				"path": "Apple Watch Series 9 COL2.png",
+				"color": "desert titanium"
+			},
+			{
+				"path": "Apple Watch Series 9 COL3.png",
+				"color": "white"
+			},
+			{
+				"path": "Apple Watch Series 9 COL4.png",
+				"color": "pink"
+			},
+			{
+				"path": "Apple Watch Series 9 COL6.png",
+				"color": "red"
+			},
+			{
+				"path": "Apple Watch Series 9 COL7.png",
+				"color": "silver"
+			},
+			{
+				"path": "Apple Watch Series 9 COL8.png",
+				"color": "pacific blue"
+			}
+		]
 	},
 	{
 		"nombre": "Series 10 42mm",
 		"precio": "1999000",
 		"categoria": "AppleWatch",
-		"imagen": "series 10 42mm.png"
+		"colores": [
+			"black",
+			"desert titanium",
+			"white",
+			"pacific blue"
+		],
+		"imagenes": [
+			{
+				"path": "Apple Watch Series 9 COL1.png",
+				"color": "black"
+			},
+			{
+				"path": "Apple Watch Series 10 COL3.webp",
+				"color": "desert titanium"
+			},
+			{
+				"path": "Apple Watch Series 10 COL1.png",
+				"color": "white"
+			},
+			{
+				"path": "Apple Watch Series 10 COL2.png",
+				"color": "pacific blue"
+			}
+		]
 	},
 	{
 		"nombre": "Series 10 46mm",
 		"precio": "2099000",
 		"categoria": "AppleWatch",
-		"imagen": "series 10 46mm.webp"
+		"colores": [
+			"black",
+			"desert titanium",
+			"white",
+			"pacific blue"
+		],
+		"imagenes": [
+			{
+				"path": "Apple Watch Series 9 COL1.png",
+				"color": "black"
+			},
+			{
+				"path": "Apple Watch Series 10 COL3.webp",
+				"color": "desert titanium"
+			},
+			{
+				"path": "Apple Watch Series 10 COL1.png",
+				"color": "white"
+			},
+			{
+				"path": "Apple Watch Series 10 COL2.png",
+				"color": "pacific blue"
+			}
+		]
 	},
 	{
-		"nombre": "Ultra 2",
+		"nombre": "Ultra 2 49mm",
 		"precio": "3049000",
 		"categoria": "AppleWatch",
-		"imagen": "ultra 2 49mm.webp"
+		"colores": [
+			"black",
+			"white"
+		],
+		"imagenes": [
+			{
+				"path": "Apple Watch Ultra 2 COL1.png",
+				"color": "black"
+			},
+			{
+				"path": "Apple Watch Ultra 2 COL2.png",
+				"color": "white"
+			}
+		]
 	},
 	{
 		"nombre": "Cargador Apple iPhone USB-C + Cable USB-C a Lighting",
@@ -135,7 +232,7 @@
 		"nombre": "Pro Max",
 		"precio": "5799000",
 		"categoria": "iPhone 16",
-		"almacenamiento": ["128g", "256"],
+		"almacenamiento": ["128", "256"],
 		"colores": [
 			"desert titanium",
 			"black titanium",
@@ -295,7 +392,7 @@
 		"nombre": "Pro",
 		"precio": "3599000",
 		"categoria": "iPhone 15",
-		"almacenamiento": ["128g", "256"],
+		"almacenamiento": ["128", "256"],
 		"colores": [
 			"black titanium",
 			"blue titanium",
@@ -355,7 +452,7 @@
 		"nombre": "Pro Max",
 		"precio": "3549000",
 		"categoria": "iPhone 14",
-		"almacenamiento": ["128g", "256"],
+		"almacenamiento": ["128", "256"],
 		"colores": [
 			"deep purple",
 			"gold",
@@ -385,7 +482,7 @@
 		"nombre": "Pro",
 		"precio": "3099000",
 		"categoria": "iPhone 14",
-		"almacenamiento": ["128g", "256"],
+		"almacenamiento": ["128", "256"],
 		"colores": [
 			"deep purple",
 			"gold",
@@ -415,7 +512,7 @@
 		"nombre": "Plus",
 		"precio": "2499000",
 		"categoria": "iPhone 14",
-		"almacenamiento": ["128g", "256"],
+		"almacenamiento": ["128", "256"],
 		"colores": [
 			"blue",
 			"white",
@@ -445,7 +542,7 @@
 		"nombre": "",
 		"precio": "2299000",
 		"categoria": "iPhone 14",
-		"almacenamiento": ["128g", "256"],
+		"almacenamiento": ["128", "256"],
 		"colores": [
 			"blue",
 			"white",
@@ -475,7 +572,7 @@
 		"nombre": "Pro Max",
 		"precio": "2749000",
 		"categoria": "iPhone 13",
-		"almacenamiento": ["128g", "256"],
+		"almacenamiento": ["128", "256"],
 		"colores": [
 			"gold",
 			"alpine green",
@@ -510,7 +607,7 @@
 		"nombre": "Pro",
 		"precio": "2399000",
 		"categoria": "iPhone 13",
-		"almacenamiento": ["128g", "256"],
+		"almacenamiento": ["128", "256"],
 		"colores": [
 			"gold",
 			"alpine green",
@@ -545,7 +642,7 @@
 		"nombre": "Mini",
 		"precio": "1899000",
 		"categoria": "iPhone 13",
-		"almacenamiento": ["128g", "256"],
+		"almacenamiento": ["128", "256"],
 		"colores": [
 			"blue",
 			"white",
@@ -617,7 +714,7 @@
 		"nombre": "Pro Max",
 		"precio": "2149000",
 		"categoria": "iPhone 12",
-		"almacenamiento": ["128g", "256"],
+		"almacenamiento": ["128", "256"],
 		"colores": [
 			"gold",
 			"graphite",
@@ -647,7 +744,7 @@
 		"nombre": "Pro",
 		"precio": "1749000",
 		"categoria": "iPhone 12",
-		"almacenamiento": ["128g", "256"],
+		"almacenamiento": ["128", "256"],
 		"colores": [
 			"gold",
 			"graphite",
