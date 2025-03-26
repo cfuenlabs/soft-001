@@ -3,19 +3,19 @@
 		"nombre": "Air 13 M1",
 		"precio": "3049000",
 		"categoria": "MacBook",
-		"imagen": "Macbook Air 13 M1.webp"
+		"imagen": "Macbook Air 13 M1.png"
 	},
 	{
 		"nombre": "Air 13 M3",
 		"precio": "4699000",
 		"categoria": "MacBook",
-		"imagen": "macbookpro13_2020l__1 m1.webp"
+		"imagen": "Macbook Air 13 M3.png"
 	},
 	{
 		"nombre": "Pro M1",
 		"precio": "2949000",
 		"categoria": "MacBook",
-		"imagen": "mac pro m1.png"
+		"imagen": "Macbook Pro M1.png"
 	},
 	{
 		"nombre": "Pro 13″ 6th M4",
@@ -27,61 +27,61 @@
 		"nombre": "Pro 11″ 6th M4",
 		"precio": "4399000",
 		"categoria": "iPad",
-		"imagen": "ipad pro m4 11 pulg.webp"
+		"imagen": "iPad Pro 11 6th M4 1COL2.png"
 	},
 	{
 		"nombre": "Pro 12.9″ 6th M4",
 		"precio": "2949000",
 		"categoria": "iPad",
-		"imagen": "iPad Pro 11 6th M4.webp"
+		"imagen": "iPad Pro 11 6th M4 1COL1.png"
 	},
 	{
 		"nombre": "Pro 10.9″ 10th Wifi",
 		"precio": "1449000",
 		"categoria": "iPad",
-		"imagen": "iPad 10th 10.9 wifi.webp"
+		"imagen": "iPad 10th 10.9 wifi 1.png"
 	},
 	{
 		"nombre": "Pro 10.2″ 9th Wifi",
 		"precio": "1449000",
 		"categoria": "iPad",
-		"imagen": "iPad 9th 10.2 wif.webp"
+		"imagen": "iPad 9th 10.2 wif 1.png"
 	},
 	{
 		"nombre": "4ta Gen",
 		"precio": "599000",
 		"categoria": "AirPods",
-		"imagen": "airpods 4.webp"
+		"imagen": "airpods 4 1.png"
 	},
 	{
 		"nombre": "3ra Gen",
 		"precio": "579000",
 		"categoria": "AirPods",
-		"imagen": "airpods 3 generacion.webp"
+		"imagen": "airpods 3 generacion 1.png"
 	},
 	{
 		"nombre": "2da Gen",
 		"precio": "489000",
 		"categoria": "AirPods",
-		"imagen": "airpods 2.webp"
+		"imagen": "airpods 2 1.png"
 	},
 	{
 		"nombre": "Lighting",
 		"precio": "380000",
 		"categoria": "AirPods",
-		"imagen": "airpods pro.jpg"
+		"imagen": "earpods lighting 1.png"
 	},
 	{
 		"nombre": "Series 9",
 		"precio": "1699000",
 		"categoria": "AppleWatch",
-		"imagen": "watch series 9 45mm.webp"
+		"imagen": "watch series 9 45mm.png"
 	},
 	{
 		"nombre": "Series 10 42mm",
 		"precio": "1999000",
 		"categoria": "AppleWatch",
-		"imagen": "series 10 42mm.webp"
+		"imagen": "series 10 42mm.png"
 	},
 	{
 		"nombre": "Series 10 46mm",
@@ -99,42 +99,43 @@
 		"nombre": "Cargador Apple iPhone USB-C + Cable USB-C a Lighting",
 		"precio": "149999",
 		"categoria": "Accesorios",
-		"imagen": "cargador carga rapida iphone.jpg"
+		"imagen": "cargador carga rapida iphone_preview_rev_1 2.png"
 	},
 	{
 		"nombre": "Cable Datos Tipo C to Lighting Apple",
 		"precio": "59999",
 		"categoria": "Accesorios",
-		"imagen": "USB-C to lighting cable.webp"
+		"imagen": "USB-C to lighting cable 1.png"
 	},
 	{
 		"nombre": "Cable Datos Tipo C to Tipo C Apple para MacBook Pro",
 		"precio": "69999",
 		"categoria": "Accesorios",
-		"imagen": "Cable Datos Tipo C to Tipo C Apple para MacBook Pro.webp"
+		"imagen": "Cable Datos Tipo C to Tipo C Apple para MacBook Pro 1.png"
 	},
 	{
 		"nombre": "Cable Datos USB to Lighting Apple iPhone",
 		"precio": "49999",
 		"categoria": "Accesorios",
-		"imagen": "Cable Datos USB to Lighting Apple iPhone.webp"
+		"imagen": "Cable Datos USB to Lighting Apple iPhone 1.png"
 	},
 	{
 		"nombre": "Cargador Apple iPhone USB Lighting",
 		"precio": "39999",
 		"categoria": "Accesorios",
-		"imagen": "Cargador Apple iPhone USB Lighting.jpg"
+		"imagen": "Cargador Apple iPhone USB Lighting 1.png"
 	},
 	{
 		"nombre": "Cable de 30 pines Apple",
 		"precio": "39999",
 		"categoria": "Accesorios",
-		"imagen": "Cable de 30 Pines Apple.webp"
+		"imagen": "Cable de 30 Pines Apple 1.png"
 	},
 	{
 		"nombre": "Pro Max",
 		"precio": "5799000",
 		"categoria": "iPhone 16",
+		"almacenamiento": ["128g", "256"],
 		"colores": [
 			"desert titanium",
 			"black titanium",
@@ -143,19 +144,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "iphone 16 pro max blanco.png",
+				"path": "iphone 16 Pro COL2.png",
 				"color": "white titanium"
 			},
 			{
-				"path": "iphone 16 pro max negro.png",
+				"path": "iphone 16 Pro COL3.png",
 				"color": "black titanium"
 			},
 			{
-				"path": "iphone 16 pro max titanium.png",
+				"path": "iphone 16 Pro COL3.png",
 				"color": "natural titanium"
 			},
 			{
-				"path": "iphone 16 Pro dorado.png",
+				"path": "iphone 16 Pro COL1.png",
 				"color": "desert titanium"
 			}
 		]
@@ -164,6 +165,7 @@
 		"nombre": "Pro",
 		"precio": "5099000",
 		"categoria": "iPhone 16",
+		"almacenamiento": ["256"],
 		"colores": [
 			"desert titanium",
 			"black titanium",
@@ -172,19 +174,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "iphone 16 pro max blanco.png",
+				"path": "iphone 16 Pro COL2.png",
 				"color": "white titanium"
 			},
 			{
-				"path": "iphone 16 pro max negro.png",
+				"path": "iphone 16 Pro COL3.png",
 				"color": "black titanium"
 			},
 			{
-				"path": "iphone 16 pro max titanium.png",
+				"path": "iphone 16 Pro COL3.png",
 				"color": "natural titanium"
 			},
 			{
-				"path": "iphone 16 Pro dorado.png",
+				"path": "iphone 16 Pro COL1.png",
 				"color": "desert titanium"
 			}
 		]
@@ -193,6 +195,7 @@
 		"nombre": "Plus",
 		"precio": "4799000",
 		"categoria": "iPhone 16",
+		"almacenamiento": ["128"],
 		"colores": [
 			"ultramarine",
 			"teal",
@@ -202,23 +205,23 @@
 		],
 		"imagenes": [
 			{
-				"path": "iphone 16 azul.png",
+				"path": "iphone 16 COL4.png",
 				"color": "ultramarine"
 			},
 			{
-				"path": "iphone 16 verde.png",
+				"path": "iphone 16 COL5.jpg",
 				"color": "teal"
 			},
 			{
-				"path": "iphone 16 rosado.png",
+				"path": "iphone 16 COL1.png",
 				"color": "pink"
 			},
 			{
-				"path": "iphone 16 blanco.png",
+				"path": "iphone 16 COL2.png",
 				"color": "white"
 			},
 			{
-				"path": "iphone 16 negro.png",
+				"path": "iphone 16 COL3.png",
 				"color": "black"
 			}
 		]
@@ -227,6 +230,7 @@
 		"nombre": "",
 		"precio": "3749000",
 		"categoria": "iPhone 16",
+		"almacenamiento": ["128"],
 		"colores": [
 			"ultramarine",
 			"teal",
@@ -236,23 +240,23 @@
 		],
 		"imagenes": [
 			{
-				"path": "iphone 16 azul.png",
+				"path": "iphone 16 COL4.png",
 				"color": "ultramarine"
 			},
 			{
-				"path": "iphone 16 verde.png",
+				"path": "iphone 16 COL5.jpg",
 				"color": "teal"
 			},
 			{
-				"path": "iphone 16 rosado.png",
+				"path": "iphone 16 COL1.png",
 				"color": "pink"
 			},
 			{
-				"path": "iphone 16 blanco.png",
+				"path": "iphone 16 COL2.png",
 				"color": "white"
 			},
 			{
-				"path": "iphone 16 negro.png",
+				"path": "iphone 16 COL3.png",
 				"color": "black"
 			}
 		]
@@ -261,6 +265,7 @@
 		"nombre": "Pro Max",
 		"precio": "4199000",
 		"categoria": "iPhone 15",
+		"almacenamiento": ["256"],
 		"colores": [
 			"black titanium",
 			"blue titanium",
@@ -269,19 +274,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 15 Pro titanio negro.webp",
+				"path": "iphone 15 pro COL1.png",
 				"color": "black titanium"
 			},
 			{
-				"path": "IPhone 15 Pro titanio azul.webp",
+				"path": "iphone 15 pro COL2.png",
 				"color": "blue titanium"
 			},
 			{
-				"path": "IPhone 15 Pro titanio natural.webp",
+				"path": "iphone 15 pro COL3.png",
 				"color": "titanium"
 			},
 			{
-				"path": "IPhone 15 Pro blanco.webp",
+				"path": "iphone 15 pro COL4.png",
 				"color": "white titanium"
 			}
 		]
@@ -290,6 +295,7 @@
 		"nombre": "Pro",
 		"precio": "3599000",
 		"categoria": "iPhone 15",
+		"almacenamiento": ["128g", "256"],
 		"colores": [
 			"black titanium",
 			"blue titanium",
@@ -298,19 +304,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 15 Pro titanio negro.webp",
+				"path": "iphone 15 pro COL1.png",
 				"color": "black titanium"
 			},
 			{
-				"path": "IPhone 15 Pro titanio azul.webp",
+				"path": "iphone 15 pro COL2.png",
 				"color": "blue titanium"
 			},
 			{
-				"path": "IPhone 15 Pro titanio natural.webp",
+				"path": "iphone 15 pro COL3.png",
 				"color": "titanium"
 			},
 			{
-				"path": "IPhone 15 Pro blanco.webp",
+				"path": "iphone 15 pro COL4.png",
 				"color": "white titanium"
 			}
 		]
@@ -319,6 +325,7 @@
 		"nombre": "",
 		"precio": "2799000",
 		"categoria": "iPhone 15",
+		"almacenamiento": ["128"],
 		"colores": [
 			"yellow",
 			"black",
@@ -327,19 +334,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 15 Amarillo.webp",
+				"path": "IPhone 15 COL4.png",
 				"color": "yellow"
 			},
 			{
-				"path": "IPhone 15 negro.webp",
+				"path": "IPhone 15 COL2.png",
 				"color": "black"
 			},
 			{
-				"path": "IPhone 15 Rosado.webp",
+				"path": "IPhone 15 COL3.png",
 				"color": "pink"
 			},
 			{
-				"path": "IPhone 15 Verde.webp",
+				"path": "IPhone 15 COL1.png",
 				"color": "green"
 			}
 		]
@@ -348,6 +355,7 @@
 		"nombre": "Pro Max",
 		"precio": "3549000",
 		"categoria": "iPhone 14",
+		"almacenamiento": ["128g", "256"],
 		"colores": [
 			"deep purple",
 			"gold",
@@ -356,19 +364,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 14 pro max purple.png",
+				"path": "IPhone 14 pro COL2.png",
 				"color": "deep purple"
 			},
 			{
-				"path": "iphone 14 pro max amarillo.png",
+				"path": "iphone 14 pro COL4.png",
 				"color": "gold"
 			},
 			{
-				"path": "iphone 14 pro max blanco.png",
+				"path": "iphone 14 pro COL1.png",
 				"color": "silver"
 			},
 			{
-				"path": "iphone 14 pro max negro.png",
+				"path": "iphone 14 pro COL3.png",
 				"color": "space black"
 			}
 		]
@@ -377,6 +385,7 @@
 		"nombre": "Pro",
 		"precio": "3099000",
 		"categoria": "iPhone 14",
+		"almacenamiento": ["128g", "256"],
 		"colores": [
 			"deep purple",
 			"gold",
@@ -385,19 +394,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 14 pro max purple.png",
+				"path": "IPhone 14 pro COL2.png",
 				"color": "deep purple"
 			},
 			{
-				"path": "iphone 14 pro max amarillo.png",
+				"path": "iphone 14 pro COL4.png",
 				"color": "gold"
 			},
 			{
-				"path": "iphone 14 pro max blanco.png",
+				"path": "iphone 14 pro COL1.png",
 				"color": "silver"
 			},
 			{
-				"path": "iphone 14 pro max negro.png",
+				"path": "iphone 14 pro COL3.png",
 				"color": "space black"
 			}
 		]
@@ -406,6 +415,7 @@
 		"nombre": "Plus",
 		"precio": "2499000",
 		"categoria": "iPhone 14",
+		"almacenamiento": ["128g", "256"],
 		"colores": [
 			"blue",
 			"white",
@@ -414,19 +424,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 14 Plus blanco estrella.webp",
+				"path": "iphone 14 COL2.png",
 				"color": "white"
 			},
 			{
-				"path": "IPhone 14 Plus Azul.webp",
+				"path": "iphone 14 COL3.png",
 				"color": "blue"
 			},
 			{
-				"path": "IPhone 14 plus morado.webp",
+				"path": "iphone 14 COL1.png",
 				"color": "purple"
 			},
 			{
-				"path": "IPhone 14 roja.webp",
+				"path": "iphone 14 COL4.png",
 				"color": "red"
 			}
 		]
@@ -435,6 +445,7 @@
 		"nombre": "",
 		"precio": "2299000",
 		"categoria": "iPhone 14",
+		"almacenamiento": ["128g", "256"],
 		"colores": [
 			"blue",
 			"white",
@@ -443,19 +454,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 14 Plus blanco estrella.webp",
+				"path": "iphone 14 COL2.png",
 				"color": "white"
 			},
 			{
-				"path": "IPhone 14 Plus Azul.webp",
+				"path": "iphone 14 COL3.png",
 				"color": "blue"
 			},
 			{
-				"path": "IPhone 14 plus morado.webp",
+				"path": "iphone 14 COL1.png",
 				"color": "purple"
 			},
 			{
-				"path": "IPhone 14 roja.webp",
+				"path": "iphone 14 COL4.png",
 				"color": "red"
 			}
 		]
@@ -464,6 +475,7 @@
 		"nombre": "Pro Max",
 		"precio": "2749000",
 		"categoria": "iPhone 13",
+		"almacenamiento": ["128g", "256"],
 		"colores": [
 			"gold",
 			"alpine green",
@@ -473,23 +485,23 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 13 Pro Max plata.webp",
+				"path": "IPhone 13 pro COL5.png",
 				"color": "silver"
 			},
 			{
-				"path": "IPhone 13 Pro Max verde alpino.webp",
+				"path": "IPhone 13 pro COL2.png",
 				"color": "alpine green"
 			},
 			{
-				"path": "IPhone 13 Pro Max azul alpino.webp",
+				"path": "IPhone 13 pro COL3.png",
 				"color": "sierra blue"
 			},
 			{
-				"path": "IPhone 13 Pro Max grafito.webp",
+				"path": "IPhone 13 pro COL4.png",
 				"color": "graphite"
 			},
 			{
-				"path": "IPhone 13 Pro Max oro.webp",
+				"path": "IPhone 13 pro COL1.png",
 				"color": "gold"
 			}
 		]
@@ -498,6 +510,7 @@
 		"nombre": "Pro",
 		"precio": "2399000",
 		"categoria": "iPhone 13",
+		"almacenamiento": ["128g", "256"],
 		"colores": [
 			"gold",
 			"alpine green",
@@ -507,23 +520,23 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 13 Pro Max plata.webp",
+				"path": "IPhone 13 pro COL5.png",
 				"color": "silver"
 			},
 			{
-				"path": "IPhone 13 Pro Max verde alpino.webp",
+				"path": "IPhone 13 pro COL2.png",
 				"color": "alpine green"
 			},
 			{
-				"path": "IPhone 13 Pro Max azul alpino.webp",
+				"path": "IPhone 13 pro COL3.png",
 				"color": "sierra blue"
 			},
 			{
-				"path": "IPhone 13 Pro Max grafito.webp",
+				"path": "IPhone 13 pro COL4.png",
 				"color": "graphite"
 			},
 			{
-				"path": "IPhone 13 Pro Max oro.webp",
+				"path": "IPhone 13 pro COL1.png",
 				"color": "gold"
 			}
 		]
@@ -532,6 +545,7 @@
 		"nombre": "Mini",
 		"precio": "1899000",
 		"categoria": "iPhone 13",
+		"almacenamiento": ["128g", "256"],
 		"colores": [
 			"blue",
 			"white",
@@ -542,23 +556,23 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 13 azul.webp",
+				"path": "IPhone 13 COL2.png",
 				"color": "blue"
 			},
 			{
-				"path": "IPhone 13 blanco estrella.webp",
+				"path": "IPhone 13 COL1.png",
 				"color": "white"
 			},
 			{
-				"path": "IPhone 13 azul medianoche.webp",
+				"path": "IPhone 13 COL3.png",
 				"color": "black"
 			},
 			{
-				"path": "IPhone 13 rosda.webp",
+				"path": "IPhone 13 COL5.png",
 				"color": "pink"
 			},
 			{
-				"path": "IPhone 13 verde.webp",
+				"path": "IPhone 13 COL4.png",
 				"color": "green"
 			}
 		]
@@ -567,6 +581,7 @@
 		"nombre": "",
 		"precio": "1899000",
 		"categoria": "iPhone 13",
+		"almacenamiento": ["128"],
 		"colores": [
 			"blue",
 			"white",
@@ -577,23 +592,23 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 13 azul.webp",
+				"path": "IPhone 13 COL2.png",
 				"color": "blue"
 			},
 			{
-				"path": "IPhone 13 blanco estrella.webp",
+				"path": "IPhone 13 COL1.png",
 				"color": "white"
 			},
 			{
-				"path": "IPhone 13 azul medianoche.webp",
+				"path": "IPhone 13 COL3.png",
 				"color": "black"
 			},
 			{
-				"path": "IPhone 13 rosda.webp",
+				"path": "IPhone 13 COL5.png",
 				"color": "pink"
 			},
 			{
-				"path": "IPhone 13 verde.webp",
+				"path": "IPhone 13 COL4.png",
 				"color": "green"
 			}
 		]
@@ -602,6 +617,7 @@
 		"nombre": "Pro Max",
 		"precio": "2149000",
 		"categoria": "iPhone 12",
+		"almacenamiento": ["128g", "256"],
 		"colores": [
 			"gold",
 			"graphite",
@@ -610,19 +626,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 12 Pro dorado.jpg",
+				"path": "IPhone 12 Pro COL4.png",
 				"color": "gold"
 			},
 			{
-				"path": "IPhone 12 Pro blanco.jpg",
+				"path": "IPhone 12 Pro COL3.png",
 				"color": "silver"
 			},
 			{
-				"path": "IPhone 12 Pro azul.jpg",
+				"path": "IPhone 12 Pro COL1.png",
 				"color": "pacific blue"
 			},
 			{
-				"path": "IPhone 12 Pro gris.jpg",
+				"path": "IPhone 12 Pro COL2.png",
 				"color": "graphite"
 			}
 		]
@@ -631,6 +647,7 @@
 		"nombre": "Pro",
 		"precio": "1749000",
 		"categoria": "iPhone 12",
+		"almacenamiento": ["128g", "256"],
 		"colores": [
 			"gold",
 			"graphite",
@@ -639,19 +656,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 12 Pro dorado.jpg",
+				"path": "IPhone 12 Pro COL4.png",
 				"color": "gold"
 			},
 			{
-				"path": "IPhone 12 Pro blanco.jpg",
+				"path": "IPhone 12 Pro COL3.png",
 				"color": "silver"
 			},
 			{
-				"path": "IPhone 12 Pro azul.jpg",
+				"path": "IPhone 12 Pro COL1.png",
 				"color": "pacific blue"
 			},
 			{
-				"path": "IPhone 12 Pro gris.jpg",
+				"path": "IPhone 12 Pro COL2.png",
 				"color": "graphite"
 			}
 		]
@@ -660,6 +677,7 @@
 		"nombre": "Mini",
 		"precio": "1299000",
 		"categoria": "iPhone 12",
+		"almacenamiento": ["64"],
 		"colores": [
 			"blue",
 			"white",
@@ -670,27 +688,27 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 12 Mini azul.jpg",
+				"path": "IPhone 12 COL6.png",
 				"color": "blue"
 			},
 			{
-				"path": "IPhone 12 Mini blanco.png",
+				"path": "IPhone 12 COL3.png",
 				"color": "white"
 			},
 			{
-				"path": "IPhone 12 Mini morado.jpg",
+				"path": "IPhone 12 COL2.png",
 				"color": "purple"
 			},
 			{
-				"path": "IPhone 12 mini negro.webp",
+				"path": "IPhone 12 COL5.png",
 				"color": "black"
 			},
 			{
-				"path": "IPhone 12 Mini rojo.webp",
+				"path": "IPhone 12 COL4.png",
 				"color": "red"
 			},
 			{
-				"path": "IPhone 12 verde.webp",
+				"path": "IPhone 12 COL1.png",
 				"color": "green"
 			}
 		]
@@ -699,6 +717,7 @@
 		"nombre": "",
 		"precio": "1449000",
 		"categoria": "iPhone 12",
+		"almacenamiento": ["64", "128"],
 		"colores": [
 			"blue",
 			"white",
@@ -709,27 +728,27 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 12 Mini azul.jpg",
+				"path": "IPhone 12 COL6.png",
 				"color": "blue"
 			},
 			{
-				"path": "IPhone 12 Mini blanco.png",
+				"path": "IPhone 12 COL3.png",
 				"color": "white"
 			},
 			{
-				"path": "IPhone 12 Mini morado.jpg",
+				"path": "IPhone 12 COL2.png",
 				"color": "purple"
 			},
 			{
-				"path": "IPhone 12 mini negro.webp",
+				"path": "IPhone 12 COL5.png",
 				"color": "black"
 			},
 			{
-				"path": "IPhone 12 Mini rojo.webp",
+				"path": "IPhone 12 COL4.png",
 				"color": "red"
 			},
 			{
-				"path": "IPhone 12 verde.webp",
+				"path": "IPhone 12 COL1.png",
 				"color": "green"
 			}
 		]
@@ -738,6 +757,7 @@
 		"nombre": "Pro Max",
 		"precio": "1599000",
 		"categoria": "iPhone 11",
+		"almacenamiento": ["64", "256"],
 		"colores": [
 			"gold",
 			"Midnight green",
@@ -746,19 +766,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 11 Pro Max gold.webp",
+				"path": "IPhone 11 Pro COL1.png",
 				"color": "gold"
 			},
 			{
-				"path": "iPhone 11 pro max verde.png",
+				"path": "IPhone 11 Pro COL2.png",
 				"color": "Midnight green"
 			},
 			{
-				"path": "IPhone 11 Pro Max gris.jpg",
+				"path": "IPhone 11 Pro COL3.png",
 				"color": "space gray"
 			},
 			{
-				"path": "IPhone 11 pro max blanco.png",
+				"path": "IPhone 11 Pro COL4.png",
 				"color": "silver"
 			}
 		]
@@ -767,6 +787,7 @@
 		"nombre": "Pro",
 		"precio": "1399000",
 		"categoria": "iPhone 11",
+		"almacenamiento": ["64", "256"],
 		"colores": [
 			"gold",
 			"Midnight green",
@@ -775,19 +796,19 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 11 Pro Max gold.webp",
+				"path": "IPhone 11 Pro COL1.png",
 				"color": "gold"
 			},
 			{
-				"path": "iPhone 11 pro max verde.png",
+				"path": "IPhone 11 Pro COL2.png",
 				"color": "Midnight green"
 			},
 			{
-				"path": "IPhone 11 Pro Max gris.jpg",
+				"path": "IPhone 11 Pro COL3.png",
 				"color": "space gray"
 			},
 			{
-				"path": "IPhone 11 pro max blanco.png",
+				"path": "IPhone 11 Pro COL4.png",
 				"color": "silver"
 			}
 		]
@@ -796,6 +817,7 @@
 		"nombre": "",
 		"precio": "1149000",
 		"categoria": "iPhone 11",
+		"almacenamiento": ["64", "128"],
 		"colores": [
 			"yellow",
 			"purple",
@@ -805,23 +827,23 @@
 		],
 		"imagenes": [
 			{
-				"path": "IPhone 11 amarillo.jpg",
+				"path": "IPhone 11 COL1.png",
 				"color": "yellow"
 			},
 			{
-				"path": "IPhone 11 morado.webp",
+				"path": "IPhone 11 COL2.png",
 				"color": "purple"
 			},
 			{
-				"path": "IPhone 11 negro.webp",
+				"path": "IPhone 11 COL3.png",
 				"color": "black"
 			},
 			{
-				"path": "IPhone 11 rojo.jpg",
+				"path": "IPhone 11 COL4.png",
 				"color": "red"
 			},
 			{
-				"path": "IPhone 11 verde.webp",
+				"path": "IPhone 11 COL5.png",
 				"color": "green"
 			}
 		]

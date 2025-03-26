@@ -22,7 +22,10 @@
 	<a href="/servicios" class="desktop">Servicios</a>
 	<a href="/nosotros" class="desktop">Sobre Nosotros</a>
 	<button class="mobile none" data-modal-id="NavModal">
-		{% icon "menu-fill" %}
+
+		<img
+		class="w-box c10ddvei c1qrwpo0 iconify"
+		src="{% icon "menu-fill" %}">
 	</button>
 </div>
 
@@ -46,6 +49,7 @@
 
 	.modal#NavModal {
 		gap: 10px;
+		z-index: 50;
 	}
 
 	.modal#NavModal a {
@@ -62,7 +66,11 @@
 <div id="ModalOverlay" data-active="false"></div>
 
 <div class="modal" id="NavModal" data-active="false" style="padding: 30px">
-	{% icon 'close-large-fill' %}
+
+		<img
+		class="w-box c10ddvei c1qrwpo0 iconify x"
+		src="{% icon 'close-large-fill' %}"
+		>
 	<h2>
 		¿A donde vamos?
 	</h2>
@@ -97,5 +105,15 @@
 			modal.dataset.active === 'true' ? modal.dataset.active = false : modal.dataset.active = true
 			modalOverlay.dataset.active === 'true' ? modalOverlay.dataset.active = false : modalOverlay.dataset.active = true
 		})
+	})
+
+	Array.from(document.querySelectorAll(".modal")).forEach(modal => {
+			const modalOverlay = document.querySelector('#ModalOverlay')
+			const modalX = document.querySelector('.iconify.x')
+			console.log(modalOverlay)
+			modalX.addEventListener("click", () => {
+				modal.dataset.active = 'false';
+				modalOverlay.dataset.active = 'false';
+			})
 	})
 {% endjs %}

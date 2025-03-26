@@ -163,7 +163,7 @@ export default async function (eleventyConfig) {
 	});
 
 	eleventyConfig.addShortcode("icon", (name => {
-		return `<img class="iconify" src="https://api.iconify.design/ri/${name}.svg" />`
+		return `https://api.iconify.design/ri/${name}.svg`
 	}))
 
 	eleventyConfig.addTransform("htmlmin", function (content) {

@@ -1136,7 +1136,7 @@ img[src="/img/servicios/renuevate_1.png"] {
 	}
 
 	#ProductDetails .ProductImage {
-		height: 400px !important;
+		height: 50vh !important;
 	}
 
 	.mobile-column {
